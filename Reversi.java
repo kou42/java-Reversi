@@ -1,5 +1,4 @@
 
-/* 17D8103013C 三浦 晃一 2019/11/29 */
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
